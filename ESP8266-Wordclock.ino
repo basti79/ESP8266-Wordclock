@@ -226,7 +226,7 @@ void ShowTime() {
     case 0: setWord(10, 9 ,3);    // UHR
       break;
     case 1: setWord( 1, 8, 4);    // FÜNF
-            setWord( 4, 2, 4);    // NACH
+            setWord( 4, 3, 4);    // NACH
       break;
     case 2: setWord( 2, 1, 4);    // ZEHN
             setWord( 4, 3, 4);    // NACH
